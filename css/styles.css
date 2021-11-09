@@ -104,7 +104,10 @@ th{
     .foot{
         background-color: rgb(173, 173, 173);
         padding: 20px;
-        margin-left: 60%;
+        
+    }
+    iframe{
+        left:0;
     }
 
  
